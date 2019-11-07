@@ -8,7 +8,7 @@
     "spin.js",
     "SpinnerOptions.d.ts"
   ],
-  "main": "spin.js",
+  "main": "spin.umd.js",
   "types": "spin.d.ts",
   "author": "Felix Gnass <fgnass@gmail.com>",
   "contributors": [
